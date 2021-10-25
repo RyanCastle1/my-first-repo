@@ -1,0 +1,11 @@
+div {
+    background-color: blue;
+    color: black;
+    border-radius: 25px;
+    font: 25px sans-serif;
+    cursor: grab;
+}
+.title {
+    text-align: center;
+
+}
