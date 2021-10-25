@@ -1,11 +1,22 @@
 div {
-    background-color: aquamarine;
-    color: black;
+    background: url("kstate_stadium.jpg");
+    background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+    color: rgb(84, 6, 173);
     border-radius: 25px;
     font: 25px sans-serif;
     cursor: grab;
 }
 .h1 {
+    height: 400px;
     text-align: center;
 
+}
+.h3.p.a{
+    background-image: url("kstate.jpg");
+    text-align: center;
+    height: 300px;
+    background-size: contain
+;
 }
